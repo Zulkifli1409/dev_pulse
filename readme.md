@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Bug Reports & Feature Requests
 
-- **GitHub Issues**: https://github.com/Zulkifli1409/dev_pulse/issues]
+- **GitHub Issues**: https://github.com/Zulkifli1409/dev_pulse/issues
 
 ## 🙏 Acknowledgments
 
